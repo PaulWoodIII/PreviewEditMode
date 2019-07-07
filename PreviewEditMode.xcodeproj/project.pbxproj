@@ -13,6 +13,7 @@
 		3CAD795922D238CA00DCC4A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3CAD795822D238CA00DCC4A0 /* Assets.xcassets */; };
 		3CAD795C22D238CA00DCC4A0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3CAD795B22D238CA00DCC4A0 /* Preview Assets.xcassets */; };
 		3CAD795F22D238CA00DCC4A0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3CAD795D22D238CA00DCC4A0 /* LaunchScreen.storyboard */; };
+		3CAD796722D23A4300DCC4A0 /* EditingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CAD796622D23A4300DCC4A0 /* EditingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3CAD795B22D238CA00DCC4A0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3CAD795E22D238CA00DCC4A0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3CAD796022D238CA00DCC4A0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3CAD796622D23A4300DCC4A0 /* EditingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				3CAD795D22D238CA00DCC4A0 /* LaunchScreen.storyboard */,
 				3CAD796022D238CA00DCC4A0 /* Info.plist */,
 				3CAD795A22D238CA00DCC4A0 /* Preview Content */,
+				3CAD796622D23A4300DCC4A0 /* EditingView.swift */,
 			);
 			path = PreviewEditMode;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 				3CAD795322D238CA00DCC4A0 /* AppDelegate.swift in Sources */,
 				3CAD795522D238CA00DCC4A0 /* SceneDelegate.swift in Sources */,
 				3CAD795722D238CA00DCC4A0 /* ContentView.swift in Sources */,
+				3CAD796722D23A4300DCC4A0 /* EditingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
